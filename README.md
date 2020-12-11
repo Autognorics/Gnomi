@@ -16,10 +16,14 @@
 - 6. Living = experiences life (eafthos)
 -
 - ⚡ Originemology:
--  eaftos = self
--  gnosei = knowledge
--  aftognosia = self-knowledge
--  zois = life-forms
+-    eaftos = self
+-    gnosei = knowledge
+-    aftognosia = self-knowledge
+-    zois = life-forms
+-    Autognozics = self-knowledge life-forms
+
+
+
 <!--
 **Autognorics/Autognorics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
