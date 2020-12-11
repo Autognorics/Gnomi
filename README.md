@@ -4,15 +4,15 @@
 - 💬 machines, things, and systems through Intuitive objects, Embedded Inscriptions, and
 - 💬 the Law of Symmetric Inversion or the Reverse Inverse Theory.
 - ⚡ The Fun fact:
-- Life evolves from being alive to being living. It is a process that is governed by six stages. 
-- The sequence of life is based on the state of being of the individual. The Six Orders of Life:
+- Autognorics uncovered that Life evolves from being alive to being living. It is a process that is governed by six stages 
+- based on the state of being of the individual. The Six Orders of Life are:
 - Alive = consumes energy without the need for neural reasoning.
 - Aware = sends and receives signals using sensors without the need for neural reasoning.
 - Conscious = matches things with things without the need for neural reasoning.
 - Intutive = chooses this or that without the need for neural reasoning.
 - Neural = self-knowledge 
 - Living = experiences life (eafthos)
--
+- ⚡ Another Fun fact:
 -
 
 <!--
