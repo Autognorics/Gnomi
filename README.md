@@ -6,11 +6,11 @@
 - ⚡ The Fun fact:
 - Autognorics uncovered that Life evolves from being alive to being living. It is a process that is governed by six stages 
 - based on the state of being of the individual. The Six Orders of Life are:
-- Alive = consumes energy without the need for neural reasoning.
-- Aware = sends and receives signals using sensors without the need for neural reasoning.
-- Conscious = matches things with things without the need for neural reasoning.
-- Intutive = chooses this or that without the need for neural reasoning.
-- Neural = self-knowledge 
+- Aliveness = the ability to consume energy without the need for neural reasoning.
+- Awareness = the ability to send and receive signals using IOs without the need for neural reasoning.
+- Consciouness = the ability to match things with things without the need for neural reasoning.
+- Intutiveness = the ability to choose between this or that without the need for neural reasoning.
+- Neuralness = self-knowledge (a brain without the brain
 - Living = experiences life (eafthos)
 - ⚡ Another Fun fact:
 -
