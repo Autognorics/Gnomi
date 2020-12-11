@@ -1,6 +1,6 @@
 ### WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
 - 🌱 This is neither about Artificial Intelligence nor Machine Learning ...
-- ⚡ This is all about a new school of thought that deals with creating engineered life forms, 
+- ⚡ This is all about a new higher school of thought that deals with creating engineered life forms, 
 - machines, things, and systems through Intuitive objects, Embedded Inscriptions, 
 - the Reverse Inverse Theory, and Inscription by Design.
 -
