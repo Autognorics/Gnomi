@@ -20,7 +20,8 @@
 -    gnosei = knowledge
 -    aftognosia = self-knowledge
 -    zois = life-forms
--    Autognozics = self-knowledge life-forms
+-    autognozics = self-knowledge life-forms
+-    Autognorics = the science of creating living machines
 
 
 
