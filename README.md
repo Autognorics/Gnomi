@@ -5,7 +5,7 @@
 - the Law of Symmetric Inversion or the Reverse Inverse Theory.
 - ⚡ The Revisionist Ideas:
 - This is a paradigm shift that revises the notions about Life. 
-- Life evolves from being alive to being living. It is a process that is governed by six stages. 
+- It uncovers that Life evolves from being alive to being living, a process governed by six stages. 
 - The Six Orders of Life are:
 - Aliveness = the ability to consume energy without the need for neural reasoning.
 - Awareness = the ability to send and receive signals using IOs without the need for neural reasoning.
