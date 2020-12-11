@@ -12,12 +12,14 @@
 - 2. Awareness = the ability to send and receive signals using IOs without the need for neural reasoning.
 - 3. Consciouness = the ability to match things with things without the need for neural reasoning.
 - 4. Intutiveness = the ability to choose between this or that without the need for neural reasoning.
-- 5. Neuralness = self-knowledge (a brain without the brain
+- 5. Neuralness = self-knowledge (a brain without the brain)
 - 6. Living = experiences life (eafthos)
 -
 - ⚡ Originemology:
--  
-
+-  eaftos = self
+-  gnosei = knowledge
+-  aftognosia = self-knowledge
+-  zois = life-forms
 <!--
 **Autognorics/Autognorics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
