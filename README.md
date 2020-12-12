@@ -2,7 +2,7 @@
 - 🌱 This is neither about Artificial Intelligence nor Machine Learning ...
 - ⚡ This is all about a new higher school of thought that deals with creating engineered life forms, 
 - machines, things, and systems through Intuitive objects, Embedded Inscriptions, 
-- the Reverse Inverse Theory, and Inscription by Design.
+- Reverse Inverse Theory, and Inscription by Design.
 -
 - ⚡ The Revisionist Ideas:
 - A paradigm shift that redefines the essential elements that come along with the criteria of life. 
