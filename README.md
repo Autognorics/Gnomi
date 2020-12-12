@@ -2,7 +2,7 @@
 - 🌱 This is neither about Artificial Intelligence nor Machine Learning ...
 -
 - ⚡ Autognorics is a new higher school of thought that deals with creating engineered life forms, 
-- machines, things, and systems through Intuitive objects, Embedded Inscriptions, Dimetrics
+- machines, things, and systems based on natural system through Intuitive objects, Embedded Inscriptions, Dimetrics
 - Reverse Inverse Theory, and Inscription by Design.
 -
 - ⚡ The Revisionist Ideas:
