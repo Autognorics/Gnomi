@@ -17,7 +17,7 @@
 - 5. Neuralness = the ability to self-acknowledge information (a brain without the brain)
 - 6. Living = the ability to experience life (eafthos)
 -
-- ⚡ Originemology:
+- ⚡ Originemology: the science of the origin of origins
 -    eaftos = self
 -    gnosei = knowledge
 -    aftognosia = self-knowledge
