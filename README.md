@@ -1,5 +1,5 @@
 ### WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
-- 🌱 This is neither about Artificial Intelligence nor Machine Learning ...
+- 🌱 This hub is neither about Artificial Intelligence (A.I.) nor Machine Learning (M.L. but I.M.
 -
 - ⚡ Autognorics is a new higher school of thought that deals with creating engineered life forms, 
 - machines, things, and systems based on natural system through Intuitive objects, Embedded Inscriptions, Dimetrics
@@ -22,7 +22,7 @@
 -    gnosei = knowledge
 -    aftognosia = self-knowledge
 -    zois = life-forms
--    autognozics = self-knowledge life-forms
+-    Gnorics = self-knowledge life-forms
 -    Autognorics = the science of creating living machines
 
 
