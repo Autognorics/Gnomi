@@ -1,6 +1,7 @@
 ### WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
-- 🌱 This hub is neither about Artificial Intelligence (A.I.) nor Machine Learning (M.L.) but I.D.
--
+- This hub is neither about Artificial Intelligence (A.I.) nor Machine Learning (M.L.) but it is all about AutoGnorics,
+- The Science of Engineered Life Forms or SELFs.
+
 - ⚡ Autognorics is a new higher school of thought that deals with creating engineered life forms, 
 - machines, things, and systems based on natural system through Intuitive objects, Embedded Inscriptions, Dimetrics
 - Reverse Inverse Theory, and Inscription by Design.
