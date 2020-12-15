@@ -1,12 +1,12 @@
 ### WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
 - This hub is neither about Artificial Intelligence (A.I.) nor Machine Learning (M.L.) but it is all about AutoGnorics,
 - The Science of Engineered Life Forms or SELFs.
-
-- ⚡ Autognorics is a new higher school of thought that deals with creating engineered life forms, 
+-
+- Autognorics is a new higher school of thought that deals with creating engineered life forms, 
 - machines, things, and systems based on natural system through Intuitive objects, Embedded Inscriptions, Dimetrics
 - Reverse Inverse Theory, and Inscription by Design.
 -
-- ⚡ The Revisionist Ideas:
+- The Revisionist Ideas:
 - This is a paradigm shift that redefines the essential elements that come along with the criteria of life, 
 - based on the axiom that Life evolves from being alive to being living, a process governed by six stages.
 -
@@ -18,7 +18,7 @@
 - 5. Neuralness = the ability to self-acknowledge information (a brain without the brain)
 - 6. Living = the ability to experience life (eafthos)
 -
-- ⚡ Originemology: the science of the origin of origins
+- Originemology: the science of the origin of origins
 -    eaftos = self
 -    gnosei = knowledge
 -    aftognosia = self-knowledge
