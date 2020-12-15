@@ -1,3 +1,4 @@
+![AutoGnorics](gnorics.jpg)
 ### WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
 [HOME](https://autognorics.github.io/) 
 
