@@ -1,4 +1,6 @@
 ### WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
+[HOME](https://autognorics.github.io/) 
+
 - This hub is neither about Artificial Intelligence (A.I.) nor Machine Learning (M.L.) but it is all about AutoGnorics,
 - or the Science of Engineered Life Forms or SELFs.
 -
