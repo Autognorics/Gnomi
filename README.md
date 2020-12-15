@@ -25,6 +25,8 @@
 -    zois = life-forms
 -    Gnorics = self-knowledge life-forms
 -    Autognorics = the science of creating living machines
+-    SELFS = Systems of Engineered Life-Forms
+-    ELFS = engineered life-forms
 
 
 
