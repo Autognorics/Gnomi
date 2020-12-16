@@ -70,18 +70,3 @@ Fragments of the text here were extracted from the book Originemology. Some idea
 
 
 > "Every creature is a living instruction that runs the algorithm of life." ~ Joey Lawsin
-
-<!--
-**Autognorics/Autognorics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
--->
