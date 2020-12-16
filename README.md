@@ -45,10 +45,10 @@ In a broader sense, Originemology is a cross-interdisciplinary body of thoughts 
 
 The five cardinal collaborating principles that lay the foundations of Originemology constitute the following signature theories:
 1. The Caveman in the Box Trilogy,
-2. Information Materialization,
+2. Codexation,
 3. Scriptional Jump,
-4. Codexation,
-5. Dimetrics
+4. Dimetrix,
+5. Inscriptions by Design
 
 The new study is also instrumental in shedding new insights into the five major ancient questions:
 a. Who or what created the universe?
@@ -65,6 +65,8 @@ d. Why are we here?
 -    Autognorics = the science of creating living machines
 -    SELFS = Systems of Engineered Life-Forms
 -    ELFS = engineered life-forms
+
+
 
 > "Life is Chemistry not Biology." ~ Joey Lawsin
 
