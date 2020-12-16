@@ -66,7 +66,7 @@ d. Why are we here?
 -    SELFS = Systems of Engineered Life-Forms
 -    ELFS = engineered life-forms
 
-Fragments of the text here were extracted from the book Originemology. Some ideas presented here emerged in an early version of the manuscript on Creation by Laws. The general view discussed in this hub was developed during the experiments conducted in the Biotronics Project.
+Fragments of the text here were extracted from the book Originemology. Some ideas emerged in an early version of the manuscript on Creation by Laws. The general view discussed in this hub was covered during the various exploratory experiments conducted in the Biotronics Project.
 
 
 > "Life is Chemistry not Biology." ~ Joey Lawsin
