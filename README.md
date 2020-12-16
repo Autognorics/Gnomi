@@ -44,11 +44,11 @@ In a broader sense, Originemology is a cross-interdisciplinary body of thoughts 
 5. Why was the idea conceptualized in the first place?
 
 The five cardinal collaborating principles that lay the foundations of Originemology constitute the following signature theories:
--(i) The Caveman in the Box Trilogy,
--(ii) Information Materialization,
--(iii) Scriptional Jump,
--(iv) Codexation,
--(v) Dimetrics
+1. The Caveman in the Box Trilogy,
+2. Information Materialization,
+3. Scriptional Jump,
+4. Codexation,
+5. Dimetrics
 
 The new study is also instrumental in shedding new insights into the five major ancient questions:
 a. Who or what created the universe?
