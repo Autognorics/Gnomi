@@ -31,7 +31,7 @@
 -    SELFS = Systems of Engineered Life-Forms
 -    ELFS = engineered life-forms
 
-
+> "Life is Chemistry not Biology." ~ Joey Lawsin
 
 <!--
 **Autognorics/Autognorics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
