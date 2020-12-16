@@ -56,7 +56,7 @@ b. How all creation is created?
 c. Where did we come from?
 d. Why are we here?
 
-- Keywords:
+### Keywords:
 -    eaftos = self
 -    gnosei = knowledge
 -    aftognosia = self-knowledge
