@@ -21,7 +21,41 @@
 - 5. Neuralness = the ability to self-acknowledge information (a brain without the brain)
 - 6. Living = the ability to experience life (eafthos)
 -
-- Originemology: the science of the origin of origins
+- The new concept Autognorics was uncovered from the study on Orignemology.
+-
+-Originemology is the science behind the beginning of everything, the "study of the origin of origins". It is a pioneering discipline that examines generally the roots or origins of everything and everyone based on the natural emergence of instructions comprehensively known as Creation by Law.
+
+This new school of thought was conceptualized mainly to determine the Genesis of Information - the origin, creation, and evolution of early primordial, ancient, and modern information based on the following basic scientific questions:
+
+1. How did information emerge into the early minds of the very first humans?
+2. Who supplied our primitive ancestors with information?
+3. Where did it originate? Where did it come from?
+4. Was the source of information a who or a what? Was it god, space aliens, or something else?
+5. What is creation by laws?
+
+Its integral component is twofold: first, it examines the origins of ideas, labels, or concepts made-up by man like languages, numbers, behaviors, emotions, gods, tools; and second, it investigates the origins of objects created by nature like the universe, elements, plants and animals.
+
+In a broader sense, Originemology is a cross-interdisciplinary body of thoughts based on prevailing comparative researches found in many subfields of study such areas as anthropology, archaeology, geography, history, chronology, etymology, ideology, onomatology, ontology, and epistemology. The main goal of the collaboration is to systematically trace backward the primal source or origin of information or idea - either abstract or physical, from being a single elemental entity to an emerging complex structure - with evidence-based findings and guided by these 5 primary questions:
+
+1. How did the original idea emerge?
+2. Who provided the original idea?
+3. Where was the idea first conceptualized
+4. When was the idea first conceptualized?
+5. Why was the idea conceptualized in the first place?
+
+The five cardinal collaborating principles that lay the foundations of Originemology constitute the following signature theories:
+(i) The Caveman in the Box Trilogy,
+(ii) Information Materialization,
+(iii) Scriptional Jump,
+(iv) Codexation Dilemma,
+(v) Viegenesis of Space and Shape
+
+The new study is also instrumental in shedding new insights into the five major ancient questions:
+a. Who or what created the universe?
+b. How all creation is created?
+c. Where did we come from?
+d. Why are we here?
+
 -    eaftos = self
 -    gnosei = knowledge
 -    aftognosia = self-knowledge
