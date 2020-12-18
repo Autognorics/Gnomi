@@ -14,9 +14,9 @@ One of the LAWS intutive networks is the basic aneural system below:
 
 In this illustration, the system stores and processes information. It receives a signal from an external source. In this example, the hand is the source or the trigger mechanism that turns On and OFF the switch. The switch stores two kinds of instructions, 0 and 1. Zero means off while One means On. The wires serve as the highways where information is transported and relayed from one point to another. The bulb is actuated when there is a presence or absence of signals. When a signal is present, the bulb is ON. When a signal is absent, the bulb is OFF. This type of system does not need a brain. This "brainless" system is called Linear Aneural Wise System or Aneural System in short. 
 
-Thus, it is not always true that the brain is the only place that stores and processes information. In fact, there are so many ways where information is stored and processed without the help of the brain [see Intuitive Networks](https://autognorics.github.io/Aneural-Intuitive-Systems/)
+Thus, it is not always true that the brain is the only place that stores and processes information. In fact, there are so many ways where information is stored and processed without the help of the brain [(see Intuitive Networks)](https://autognorics.github.io/Aneural-Intuitive-Systems/)
 
-
+Now, let us examine deeper the pictorial diagram and tell me which part in the system can be the brain be added or placed. Is the brain really necessary in any intellgent system? If not, then the brain does not really stores information as many experts disavow. In fact, thoughts, reasons, emotions, ideas do not need to emanate from the brain. To prove these assertions, let us go back to our first argument: heat sensor can actually conceive the presence of heat.
 
 
 
