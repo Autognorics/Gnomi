@@ -1,5 +1,5 @@
 ![AutoGnorics](gnorics.jpg)
-### WELCOME TO THE WORLD OF ANEURAL AUTOGNORICS 👋
+### Neuralness of Knowledge
 [HOME](https://autognorics.github.io/) 
 
 "A heat sensor can detect heat, but it does not mean it can conceive or conceptualize heat".
