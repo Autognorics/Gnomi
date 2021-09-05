@@ -1,5 +1,5 @@
 ![AutoGnorics](gnorics.jpg)
-# Neural Selfness of Machines
+# Aneural Inlearness of Machines
 [HOME](https://autognorics.github.io/) 
 
 "A heat sensor can detect heat, but it does not mean it can conceive or conceptualize heat".
